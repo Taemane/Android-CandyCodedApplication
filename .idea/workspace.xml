@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,24 +161,39 @@
       <option name="project" value="LOCAL" />
       <updated>1601549006875</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="third commit">
+      <created>1601549043090</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601549043090</updated>
+    </task>
+    <task id="LOCAL-00006" summary="forth commit">
+      <created>1601549091876</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601549091876</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Second commit" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="forth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="forth commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="707" y="123" key="CommitChangelistDialog2" timestamp="1601549047703">
+    <state x="707" y="123" key="CommitChangelistDialog2" timestamp="1601549090491">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="707" y="123" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1601549047703" />
-    <state x="790" y="261" key="Vcs.Push.Dialog.v2" timestamp="1601548940147">
+    <state x="707" y="123" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1601549090491" />
+    <state x="790" y="261" key="Vcs.Push.Dialog.v2" timestamp="1601549098359">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="790" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601548940147" />
+    <state x="790" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601549098359" />
     <state x="1007" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601548994994">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

@@ -222,10 +222,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="firth commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="707" y="123" key="CommitChangelistDialog2" timestamp="1601549566354">
+    <state x="707" y="123" key="CommitChangelistDialog2" timestamp="1601549734472">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="707" y="123" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1601549566354" />
+    <state x="707" y="123" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1601549734472" />
     <state width="1094" height="285" key="GridCell.Tab.0.bottom" timestamp="1601549682247">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -246,9 +246,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="790" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601549570033" />
-    <state x="1007" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601548994994">
+    <state x="1007" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601549739307">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1007" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601548994994" />
+    <state x="1007" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601549739307" />
   </component>
 </project>
